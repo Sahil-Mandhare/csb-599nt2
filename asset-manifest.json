@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://sahil-mandhare.github.io/csb-599nt2/static/js/main.914fe783.chunk.js",
+    "main.js.map": "https://sahil-mandhare.github.io/csb-599nt2/static/js/main.914fe783.chunk.js.map",
+    "runtime-main.js": "https://sahil-mandhare.github.io/csb-599nt2/static/js/runtime-main.b0cfbc66.js",
+    "runtime-main.js.map": "https://sahil-mandhare.github.io/csb-599nt2/static/js/runtime-main.b0cfbc66.js.map",
+    "index.html": "https://sahil-mandhare.github.io/csb-599nt2/index.html",
+    "precache-manifest.0a08db8050af4c7572d765777611bbe3.js": "https://sahil-mandhare.github.io/csb-599nt2/precache-manifest.0a08db8050af4c7572d765777611bbe3.js",
+    "service-worker.js": "https://sahil-mandhare.github.io/csb-599nt2/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0cfbc66.js",
+    "static/js/main.914fe783.chunk.js"
+  ]
+}
